@@ -1,4 +1,4 @@
-# Coming Soon - React.js Plugin for Meema.io
+# Coming Soon - React.js Plugin for Meema
 
 This package contains the source code for Meema's React Plugin. It is a wrapper component around Meema.js.
 
