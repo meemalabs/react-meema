@@ -2,4 +2,4 @@
 
 ### Features
 
-* **core:** initial release ([#1](https://github.com/meemaio/statamic-plugin/issues/1))
+* **core:** initial release ([#1](https://github.com/meemaio/react-meema/issues/1))
